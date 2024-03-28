@@ -1,5 +1,5 @@
 # Bank-Loan-Case-Study
-Project Description 
+
 The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter. Suppose you work for a consumer finance company which specializes in lending various types of loans to urban customers. You have to use EDA to analyze the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
 
 When the company receives a loan application, the comapny has to decide for loan approval based on the applicant's profile. Two types of risks are associated with the bank's decision:
